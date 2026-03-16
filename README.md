@@ -4,7 +4,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </p>
-🏦 Real-World Banking System
+
+Real-World Banking System
 
 A real-world banking system simulation built with React and Redux to demonstrate modern state management techniques.
 
