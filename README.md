@@ -1,14 +1,14 @@
-<h1 align="center">🏦 Banking System</h1>
+<h1 align="left">🏦 Banking System</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="140"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="140"/>
 </p>
 
-<p align="center">
+<h3 align="left">
   Built with React & Redux
-</p>
+</h3>
 
 A real-world banking system simulation built with React and Redux to demonstrate modern state management techniques.
 
