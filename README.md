@@ -1,7 +1,16 @@
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="120" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="120" alt="Redux"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="120"/><br/>
+      <b>React</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="120"/><br/>
+      <b>Redux</b>
+    </td>
+  </tr>
+</table>
+
 Real-World Banking System
 
 A real-world banking system simulation built with React and Redux to demonstrate modern state management techniques.
