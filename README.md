@@ -1,10 +1,18 @@
 <h1 align="center">🏦 Banking System</h1>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="140"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="140"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="140"/><br/>
+      <b>React</b>
+    </td>
+    <td width="60"></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="140"/><br/>
+      <b>Redux</b>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   Built with React & Redux
