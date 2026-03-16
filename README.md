@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"/>
+</p>
+
 🏦 Real-World Banking System
 
 A real-world banking system simulation built with React and Redux to demonstrate modern state management techniques.
@@ -27,21 +32,6 @@ Global state management using Redux
 Async operations (currency conversion API)
 
 Comparison between Classic Redux and Redux Toolkit
-
-📂 Project Structure
-src
- ┣ features
- ┃ ┣ accounts
- ┃ ┃ ┣ accountSlice.js
- ┃ ┃ ┗ Account.jsx
- ┃ ┣ customers
- ┃ ┃ ┣ customerSlice.js
- ┃ ┃ ┗ Customer.jsx
- ┣ store
- ┃ ┗ store.js
- ┣ ui
- ┣ App.js
- ┗ index.js
  
 ## npm install 
 ## npm start
