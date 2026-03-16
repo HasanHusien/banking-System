@@ -10,8 +10,6 @@
   Built with React & Redux
 </p>
 
-Real-World Banking System
-
 A real-world banking system simulation built with React and Redux to demonstrate modern state management techniques.
 
 This project compares two approaches for managing global state in React applications:
