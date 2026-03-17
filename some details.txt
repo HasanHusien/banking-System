@@ -1,0 +1,7 @@
+bank system project with react redux
+
+classic redux way ✔
+
+toolkite redux way ✔
+
+perfect files structue maded for this project  
