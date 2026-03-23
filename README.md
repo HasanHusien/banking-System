@@ -1,4 +1,4 @@
-<h1 align="left">🏦 Banking System</h1>
+<h1 align="left"> Banking System</h1>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="140"/>
